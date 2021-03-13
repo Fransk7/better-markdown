@@ -8,7 +8,7 @@ def replaceText(text, dic):
         text = text.replace(i, j)
     print(text)
 
-fileName = input("Enter name of file to read (include extension: \'.md\' or \'.txt\'): ")
+fileName = input("Enter name of file to read (include extension: \'.txt\'): ")
 readFile = open(fileName, "r")
 
 string = readFile.read()
@@ -19,16 +19,4 @@ for i in range(string.count("\n") + 1):
 
 readFile.close()
 
-'''
-1# = h1
-2# = h2
-3# = h3
-4# = h4
-5# = h5
-6# = h6
-* = bold
-/ = italic
-~ = strike
-_ = underline
-'''
 

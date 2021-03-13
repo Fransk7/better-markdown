@@ -8,6 +8,11 @@ six. If you wanted to make something bold, you would have to type in \*\*, two a
 that was too much to type out everytime, so I decided to make my own version where you get to type out less 
 (Better Markdown). (Those examples in Better Markdown would be: 6\# and / respectively.)
 
+## How to Use It
+Create a text file and type in the text you want in Better Markdown. Run the 'markup.py' file. The 'markup.py' 
+file will ask you to enter the name of your text file into it, and then it will give you your output in regular 
+Markdown.
+
 ## Features
 | Better Markdown | Regular Markdown | What It Is |
 | --- | --- | --- |
