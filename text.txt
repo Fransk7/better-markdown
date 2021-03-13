@@ -4,4 +4,4 @@
 This is *bold*
 This is /italics/
 This is ~_underlined and striked through_~
-*/Italic and bold/*
+This is */Italic and bold/*
