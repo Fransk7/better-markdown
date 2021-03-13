@@ -11,7 +11,7 @@ that was too much to type out everytime, so I decided to make my own version whe
 ## How to Use It
 Create a text file and type in the text you want in Better Markdown. Run the 'markup.py' file. The 'markup.py' 
 file will ask you to enter the name of your text file into it, and then it will give you your output in regular 
-Markdown.
+Markdown which you can then use.
 
 ## Features
 | Better Markdown | Regular Markdown | What It Is |
