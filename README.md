@@ -26,3 +26,4 @@ Markdown which you can then use.
 | / | \* | Italics |
 | \~ | \~\~ | Strikethrough |
 | \_ | \_\_ | Underline |
+| \-\- | \-\-\- | Horizontal Rule |

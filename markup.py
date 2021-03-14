@@ -1,7 +1,7 @@
 import re
 
 dic = {"1#": "#", "2#": "##", "3#": "###", "4#": "####", "5#": "#####",
-       "6#": "######", "*": "**", "/": "*", "~": "~~", "_": "__"} # {"Better Markdown": "Markdown"}
+       "6#": "######", "*": "**", "/": "*", "~": "~~", "_": "__", "--": "----"} # {"Better Markdown": "Markdown"}
 
 def replaceText(text, dic):
     for i, j in dic.items():
@@ -18,5 +18,7 @@ for i in range(string.count("\n") + 1):
     replaceText(splitString[i], dic)
 
 readFile.close()
+
+end = input("Press enter to end the program: ")
 
 
