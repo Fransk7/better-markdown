@@ -14,7 +14,7 @@ file will ask you to enter the name of your text file into it, and then it will 
 Markdown which you can then use.
 
 ## Features
-| Better Markdown | Regular Markdown | What It Is |
+| Better Markdown | Regular Markdown | Description |
 | --- | --- | --- |
 | 1\# | \# | Header 1 |
 | 2\# | \#\# | Header 2 |
@@ -22,8 +22,8 @@ Markdown which you can then use.
 | 4\# | \#\#\#\# | Header 4 |
 | 5\# | \#\#\#\#\# | Header 5 |
 | 6\# | \#\#\#\#\#\# | Header 6 |
-| \* | \*\* | Bold |
-| / | \* | Italics |
-| \~ | \~\~ | Strikethrough |
-| \_ | \_\_ | Underline |
-| \-\- | \-\-\- | Horizontal Rule |
+| \* | \*\* | Makes text bold |
+| / | \* | Makes text italicised |
+| \~ | \~\~ | Makes text have a strike through it |
+| \_ | \_\_ | Makes text underlined |
+| \-\- | \-\-\- | Adds a horizontal rule |
