@@ -8,7 +8,8 @@ def replaceText(text, dic):
         text = text.replace(i, j)
     print(text)
 
-fileName = input("Enter name of file to read (include extension: \'.txt\'): ")
+fileName = input("Enter name of file to read (txt format) : ")
+filename = filename + ".txt"
 readFile = open(fileName, "r")
 
 string = readFile.read()
